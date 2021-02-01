@@ -68,6 +68,7 @@ body {
     width: 300px;
     font-size: 1.7em;
     border-radius: 100%;
+    font-weight: 600;
 }
 
 .temperature-value p {
